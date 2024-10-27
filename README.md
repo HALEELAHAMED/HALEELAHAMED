@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://via.placeholder.com/1200x300.png?text=Your+Project+Name+%7C+Description+of+the+Project](https://img.freepik.com/premium-vector/mobile-developer-programmer-flat-vector-illustration-banner-landing-page_128772-986.jpg)
-" alt="Haleel Ahamed - Flutter Developer" width="100%" />
+  <img src="https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?ga=GA1.1.355964509.1716128286&semt=ais_hybrid" alt="Haleel Ahamed - Flutter Developer" width="100%" />
 </p>
 
 <!-- Greeting -->
@@ -32,9 +31,7 @@
 
 <!-- Projects Section -->
 ### 📂 Featured Projects
-- ### 📂 Featured Projects
 - **[Meals App](https://github.com/HALEELAHAMED/Meals)**: A recipe app with a favorites feature, developed with Flutter.
-: A recipe app with a favorites feature, developed with Flutter.
 - **[E-commerce App](#)**: Built with Firebase and GetX for smooth shopping experiences.
 - **[Student Manager App](#)**: A Flutter project for managing student details.
 
@@ -69,3 +66,4 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=HaleelAhamed.HaleelAhamed" alt="visitor badge"/>
 </p>
+
