@@ -12,7 +12,6 @@
 <!-- About Me Section -->
 ### 👨‍💻 About Me
 - 💼 I’m a Flutter developer with experience in **Git**, **Riverpod**, **API integration**, **Redux**, and **Firebase**.
-- 🎓 My educational background is higher secondary.
 - 🌱 I’m currently enhancing my skills in state management and backend integration.
 - 🔭 I’m working on [Meals App](#) to add more advanced features for a job-interview worthy project.
 
