@@ -31,7 +31,9 @@
 
 <!-- Projects Section -->
 ### 📂 Featured Projects
-- **[Meals App](#)**: A recipe app with a favorites feature, developed with Flutter.
+- ### 📂 Featured Projects
+- **[Meals App](https://github.com/HALEELAHAMED/Meals)**: A recipe app with a favorites feature, developed with Flutter.
+: A recipe app with a favorites feature, developed with Flutter.
 - **[E-commerce App](#)**: Built with Firebase and GetX for smooth shopping experiences.
 - **[Student Manager App](#)**: A Flutter project for managing student details.
 
