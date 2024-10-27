@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.OV2_a_IEEZ_sdjfz1xHPgwHaD4&pid=Api&P=0&h=180" alt="Haleel Ahamed - Flutter Developer" width="100%" />
+  <img src="https://via.placeholder.com/1200x300.png?text=Your+Project+Name+%7C+Description+of+the+Project
+" alt="Haleel Ahamed - Flutter Developer" width="100%" />
 </p>
 
 <!-- Greeting -->
