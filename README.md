@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Your+Project+Name+%7C+Description+of+the+Project
+  <img src="[https://via.placeholder.com/1200x300.png?text=Your+Project+Name+%7C+Description+of+the+Project](https://img.freepik.com/premium-vector/mobile-developer-programmer-flat-vector-illustration-banner-landing-page_128772-986.jpg)
 " alt="Haleel Ahamed - Flutter Developer" width="100%" />
 </p>
 
