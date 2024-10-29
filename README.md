@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?ga=GA1.1.355964509.1716128286&semt=ais_hybrid" alt="Haleel Ahamed - Flutter Developer" width="100%" />
-</p>
+
 
 <!-- Greeting -->
 <h1 align="center">Hello, I'm Haleel Ahamed 👋</h1>
